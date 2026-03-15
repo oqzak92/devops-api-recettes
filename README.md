@@ -98,3 +98,6 @@ Le pipeline GitHub Actions se déclenche sur chaque push et Pull Request :
 
 1. **Lint** — vérifie le code avec ESLint
 2. **Tests** — exécute les tests (dépend du job Lint)
+
+## Auteur
+Projet réalisé dans le cadre du cours DevOps.
